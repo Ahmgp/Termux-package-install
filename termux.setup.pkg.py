@@ -1,4 +1,4 @@
-Import subprocess
+import subprocess
 
 
 subprocess.call("pkg update ", shell=True)
